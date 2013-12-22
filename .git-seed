@@ -15,7 +15,7 @@
       "packageManager": "npm",
       "remote.origin.url": "git@github.com:nomilous/linux-if-stats.git",
       "HEAD": "refs/heads/master",
-      "version": "284a05edaa0cbc9175f52bf478f70e5821adcad7"
+      "version": "a88a45b6bd44f0e875795ea90c2b5ceb79a3bb0d"
     },
     {
       "root": false,
@@ -23,7 +23,7 @@
       "packageManager": "npm",
       "remote.origin.url": "git@github.com:nomilous/linux-tcp-stats.git",
       "HEAD": "refs/heads/master",
-      "version": "db06b1b8935e21d18d311158a9e12292eca4bd22"
+      "version": "7bd29a16c83f7120a7af6503496e0b405ef2ac7d"
     },
     {
       "root": false,
@@ -31,7 +31,7 @@
       "packageManager": "npm",
       "remote.origin.url": "git@github.com:nomilous/linux-udp-stats.git",
       "HEAD": "refs/heads/master",
-      "version": "caa867c47eca2d95a18ca997ab7355287caffdc4"
+      "version": "bce9cb801d912ba1ecf89bccca2a9ae912a261b0"
     }
   ]
 }
