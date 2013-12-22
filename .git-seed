@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "repos": [
+    {
+      "root": true,
+      "workDir": ".",
+      "packageManager": "npm",
+      "remote.origin.url": "git@github.com:nomilous/vital-linux.git",
+      "HEAD": "refs/heads/master",
+      "version": "ROOT_REPO_REF"
+    },
+    {
+      "root": false,
+      "workDir": "./monitoring/network/vital-linux-net-dev",
+      "packageManager": "npm",
+      "remote.origin.url": "git@github.com:nomilous/vital-linux-net-dev.git",
+      "HEAD": "refs/heads/master",
+      "version": "bdbe2a6340491e7c122ad308b6908ea9d8fb4ccb"
+    },
+    {
+      "root": false,
+      "workDir": "./monitoring/network/vital-linux-net-tcp",
+      "packageManager": "npm",
+      "remote.origin.url": "git@github.com:nomilous/vital-linux-net-tcp.git",
+      "HEAD": "refs/heads/master",
+      "version": "672df04943c309a002f650110c27bd975e9b450f"
+    },
+    {
+      "root": false,
+      "workDir": "./monitoring/network/vital-linux-net-udp",
+      "packageManager": "npm",
+      "remote.origin.url": "git@github.com:nomilous/vital-linux-net-udp.git",
+      "HEAD": "refs/heads/master",
+      "version": "e36926308c4683fa577655b999043f5bdb9d2d8d"
+    }
+  ]
+}
