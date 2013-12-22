@@ -11,9 +11,9 @@
     },
     {
       "root": false,
-      "workDir": "./monitoring/network/vital-linux-net-dev",
+      "workDir": "./monitoring/network/vital-linux-net-nics",
       "packageManager": "npm",
-      "remote.origin.url": "git@github.com:nomilous/vital-linux-net-dev.git",
+      "remote.origin.url": "git@github.com:nomilous/vital-linux-net-nics.git",
       "HEAD": "refs/heads/master",
       "version": "bdbe2a6340491e7c122ad308b6908ea9d8fb4ccb"
     },
