@@ -11,27 +11,27 @@
     },
     {
       "root": false,
-      "workDir": "./monitoring/network/vital-linux-net-nics",
+      "workDir": "./monitoring/network/linux-if-stats",
       "packageManager": "npm",
-      "remote.origin.url": "git@github.com:nomilous/vital-linux-net-nics.git",
+      "remote.origin.url": "git@github.com:nomilous/linux-if-stats.git",
       "HEAD": "refs/heads/master",
-      "version": "bdbe2a6340491e7c122ad308b6908ea9d8fb4ccb"
+      "version": "284a05edaa0cbc9175f52bf478f70e5821adcad7"
     },
     {
       "root": false,
-      "workDir": "./monitoring/network/vital-linux-net-tcp",
+      "workDir": "./monitoring/network/linux-tcp-stats",
       "packageManager": "npm",
-      "remote.origin.url": "git@github.com:nomilous/vital-linux-net-tcp.git",
+      "remote.origin.url": "git@github.com:nomilous/linux-tcp-stats.git",
       "HEAD": "refs/heads/master",
-      "version": "672df04943c309a002f650110c27bd975e9b450f"
+      "version": "db06b1b8935e21d18d311158a9e12292eca4bd22"
     },
     {
       "root": false,
-      "workDir": "./monitoring/network/vital-linux-net-udp",
+      "workDir": "./monitoring/network/linux-udp-stats",
       "packageManager": "npm",
-      "remote.origin.url": "git@github.com:nomilous/vital-linux-net-udp.git",
+      "remote.origin.url": "git@github.com:nomilous/linux-udp-stats.git",
       "HEAD": "refs/heads/master",
-      "version": "e36926308c4683fa577655b999043f5bdb9d2d8d"
+      "version": "caa867c47eca2d95a18ca997ab7355287caffdc4"
     }
   ]
 }
